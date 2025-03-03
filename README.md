@@ -1,4 +1,4 @@
-# Friendly Snippets
+# Guy Snippets
 
 Snippets collection for a set of different programming languages.
 
@@ -19,7 +19,7 @@ Use your plugin manager of choice, e.g.
 > [!WARNING]
 > If you're using LuaSnip make sure to use
 > `require("luasnip.loaders.from_vscode").lazy_load()`, and add
-> `friendly-snippets` as a dependency for LuaSnip, otherwise snippets might not
+> `guy-snippets` as a dependency for LuaSnip, otherwise snippets might not
 > be detected. If you don't use `lazy_load()` you might notice a slower
 > startup-time
 >
